@@ -25,8 +25,11 @@ sudo systemctl start jenkins
 sudo systemctl enable jenkins
 ```
 Plugins:
+
 * Stage view
+
 Master Agent Architecture
+
 * Create credentials to connect agent
 * Install Java in agent
 * Select Non verification strategy
